@@ -41,6 +41,8 @@
 
 7. **LlamaParse with GPT-4o** : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/GPT4o-API-Implementation-GPT4-RAG/blob/main/test_gpt4o.ipynb)
 
+8. **🌟Building RAG With OpenAI GPT-4o(omni) Model Using Objectbox Vector Database💎💫**: [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/Building-RAG-With-OpenAI-GPT-4o-omni-Model-Using-Objectbox-Vector-Database)
+
    
 ## ©️ License 🪪 
 
