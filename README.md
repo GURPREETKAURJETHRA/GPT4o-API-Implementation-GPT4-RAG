@@ -39,6 +39,9 @@
 
 6. **OpenAI Models** : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/GPT4o-API-Implementation-GPT4-RAG/blob/main/OpenAI_Models.ipynb)
 
+7. **LlamaParse with GPT-4o** : [👉Implementation Guide▶️](https://github.com/GURPREETKAURJETHRA/GPT4o-API-Implementation-GPT4-RAG/blob/main/test_gpt4o.ipynb)
+
+   
 ## ©️ License 🪪 
 
 Distributed under the MIT License. See `LICENSE` for more information.
